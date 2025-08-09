@@ -1,0 +1,20 @@
+{
+    "main_menu": [
+        {
+            "text": "🎮 شحن الألعاب",
+            "type": "submenu",
+            "submenu": [
+                {"text": "PUBG Mobile", "type": "request_info"},
+                {"text": "Free Fire", "type": "request_info"}
+            ]
+        },
+        {
+            "text": "💳 بطاقات",
+            "type": "submenu",
+            "submenu": [
+                {"text": "Google Play", "type": "request_info"},
+                {"text": "iTunes", "type": "request_info"}
+            ]
+        }
+    ]
+}
